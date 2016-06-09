@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "semistandard && npm run coverage",
+    "deploy": "node ./node_modules/dpl/dpl.js",
+    "nocov": "node ./node_modules/.bin/mocha test/*.test.js",
+    "semistandard": "semistandard --verbose | snazzy",
+    "coverage": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha test/*.test.js --report lcov -- -R spec",
+    "check-coverage": "npm run coverage && node_modules/.bin/istanbul check-coverage --statements 90 --functions 90 --lines 90 --branches 90"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +17,30 @@
   "devDependencies": {
     "aws-lambda-helper": "^2.18.0",
     "aws-sdk": "^2.3.18",
-    "env2": "^2.1.0"
-  }
+    "dpl": "^3.2.0",
+    "env2": "^2.1.0",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.5.3",
+    "pre-commit": "^1.1.3",
+    "semistandard": "7.0.5",
+    "snazzy": "^4.0.0"
+  },
+  "dependencies": {
+    "lodash.result": "^4.4.0"
+  },
+  "semistandard": {
+    "rules": {
+      "camelcase": false
+    },
+    "globals": [
+      "describe",
+      "it",
+      "afterEach",
+      "before"
+    ]
+  },
+  "pre-commit": [
+    "semistandard",
+    "check-coverage"
+  ]
 }

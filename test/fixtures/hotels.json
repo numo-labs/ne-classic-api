@@ -1,0 +1,1244 @@
+[{
+  "wvId": 141784,
+  "caId": 80582,
+  "name": "smartline Lancaster",
+  "description": "På smartline Lancaster kommer du ikke til at kede dig, her arrangerer hotellets personale aktiviteter og underholdning både om dagen og aftenen. Får du alligevel lyst til en tur på stranden eller til centrum af Playa de Palma, er der kun nogle få hundrede meter dertil.\n\nHotellet har en aldersgrænse på 18 år.",
+  "rating": {
+    "guestRating": 3.4,
+    "doubledRating": 5
+  },
+  "geographical": {
+    "countryId": 179,
+    "countryName": "Spanien",
+    "areaId": 108099,
+    "areaName": "Mallorca",
+    "resortId": 466,
+    "resortName": "Playa de Palma"
+  },
+  "location": {
+    "latitude": 39.5204124,
+    "longitude": 2.747054
+  },
+  "url": "http://www.spies.dk/spanien/playa-de-palma/smartline-lancaster-hotel",
+  "concept": {
+    "id": "smartlineAdults",
+    "title": "Smartline Adults"
+  },
+  "images": [
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_1_51.jpg?v=4",
+      "description": "",
+      "width": 975,
+      "height": 350
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_10_13.jpg?v=4",
+      "description": "",
+      "width": 696,
+      "height": 307
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_3_15.jpg?v=4",
+      "description": "",
+      "width": 232,
+      "height": 131
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_4_14.jpg?v=4",
+      "description": "",
+      "width": 380,
+      "height": 215
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_6_16.jpg?v=4",
+      "description": "",
+      "width": 210,
+      "height": 118
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_7_20.jpg?v=4",
+      "description": "",
+      "width": 136,
+      "height": 77
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1024_8_17.jpg?v=4",
+      "description": "",
+      "width": 210,
+      "height": 196
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1023_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1048_2_30.jpg?v=3",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1047_2_30.jpg?v=3",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1020_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1026_2_29.jpg?v=4",
+      "description": "",
+      "width": 631,
+      "height": 960
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1025_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1031_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1033_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1045_2_30.jpg?v=3",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1040_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1027_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1028_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1029_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1030_2_30.jpg?v=4",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1043_2_30.jpg?v=3",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/PMILANC1051_2_30.jpg?v=3",
+      "description": "",
+      "width": 1280,
+      "height": 853
+    }
+  ],
+  "facts": [
+    {
+      "id": "OutdoorPool",
+      "name": "Pool",
+      "value": "Ja"
+    },
+    {
+      "id": "DistanceToBeach",
+      "name": "Nærmeste strand",
+      "value": "500 m"
+    },
+    {
+      "id": "DistanceToCenter",
+      "name": "Nærmeste centrum",
+      "value": "400 m"
+    },
+    {
+      "id": "Bar",
+      "name": "Bar",
+      "value": "Ja"
+    },
+    {
+      "id": "ChildrenPool",
+      "name": "Børnepool",
+      "value": "Ja"
+    },
+    {
+      "id": "Elevator",
+      "name": "Elevator",
+      "value": "Ja"
+    },
+    {
+      "id": "PoolBar",
+      "name": "Poolbar",
+      "value": "Ja"
+    },
+    {
+      "id": 130,
+      "name": "Restaurant",
+      "value": "1"
+    },
+    {
+      "id": "MiniMarket",
+      "name": "Minimarked",
+      "value": "Nej"
+    },
+    {
+      "id": "CleaningDaysPerWeek",
+      "name": "Rengøring (antal dage pr. uge)",
+      "value": "5"
+    },
+    {
+      "id": "Internet",
+      "name": "Internet",
+      "value": "Ja"
+    },
+    {
+      "id": "WaterSlide",
+      "name": "Vandrutsjebane",
+      "value": "Nej"
+    },
+    {
+      "id": "LolloAndBernie",
+      "name": "Lollo och Bernie",
+      "value": false
+    },
+    {
+      "id": "IsAdultHotel",
+      "name": "Adult hotel",
+      "value": true
+    },
+    {
+      "id": "AllInclusive",
+      "name": "All Inclusive",
+      "value": false
+    }
+  ],
+  "hotelProduct": {
+    "id": 109,
+    "key": "SmartlineAdults"
+  },
+  "interestProducts": [
+    {
+      "id": 111,
+      "key": "SmartlineAll"
+    }
+  ],
+  "importUpdateId": "2016-06-09T09:14:54.234Z"
+},
+{
+  "wvId": 182103,
+  "caId": 72252,
+  "name": "Lambrinos Suites",
+  "description": "Lambrinos Suites er et stilfuldt hotel i Platanias. Her bor du i lyse og pæne lejligheder med mulighed for selv at lave mad. Hotellet har en hyggelig atmosfære med kun 16 lejligheder. I Platanias er der et stort udvalg af små og hyggelige taverner, og det er let at finde sit eget yndlingssted.",
+  "rating": {
+    "guestRating": 4,
+    "doubledRating": 6
+  },
+  "geographical": {
+    "countryId": 78,
+    "countryName": "Grækenland",
+    "areaId": 108055,
+    "areaName": "Kreta",
+    "resortId": 534,
+    "resortName": "Platanias (Chaniakysten)"
+  },
+  "location": {
+    "latitude": 35.51787,
+    "longitude": 23.9032459
+  },
+  "url": "http://www.spies.dk/graekenland/platanias-chaniakysten/lambrinos-suites",
+  "concept": {
+    "id": "primeComfort",
+    "title": "Prime Comfort"
+  },
+  "images": [
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_1_13.jpg?v=3",
+      "description": "",
+      "width": 696,
+      "height": 307
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_10_51.jpg?v=3",
+      "description": "",
+      "width": 975,
+      "height": 350
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_3_15.jpg?v=3",
+      "description": "",
+      "width": 232,
+      "height": 131
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_4_14.jpg?v=3",
+      "description": "",
+      "width": 380,
+      "height": 215
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_6_16.jpg?v=3",
+      "description": "",
+      "width": 210,
+      "height": 118
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_7_20.jpg?v=3",
+      "description": "",
+      "width": 136,
+      "height": 77
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1007_8_17.jpg?v=3",
+      "description": "",
+      "width": 210,
+      "height": 196
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1004_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1004_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1008_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1008_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1002_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1002_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1001_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1001_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1003_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1003_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1006_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1006_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1005_2_44.jpg?v=3",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/CHQLAMB1005_5_32.jpg?v=4",
+      "description": "",
+      "width": 170,
+      "height": 113
+    }
+  ],
+  "facts": [
+    {
+      "id": "OutdoorPool",
+      "name": "Pool",
+      "value": "Ja"
+    },
+    {
+      "id": "DistanceToBeach",
+      "name": "Nærmeste strand",
+      "value": "150 m"
+    },
+    {
+      "id": "DistanceToCenter",
+      "name": "Nærmeste centrum",
+      "value": "500 m"
+    },
+    {
+      "id": "Bar",
+      "name": "Bar",
+      "value": "Nej"
+    },
+    {
+      "id": "ChildrenPool",
+      "name": "Børnepool",
+      "value": "Ja"
+    },
+    {
+      "id": "Elevator",
+      "name": "Elevator",
+      "value": "Nej"
+    },
+    {
+      "id": "PoolBar",
+      "name": "Poolbar",
+      "value": "som serverer enkle retter"
+    },
+    {
+      "id": "MiniMarket",
+      "name": "Minimarked",
+      "value": "Nej"
+    },
+    {
+      "id": "CleaningDaysPerWeek",
+      "name": "Rengøring (antal dage pr. uge)",
+      "value": "7"
+    },
+    {
+      "id": "Internet",
+      "name": "Internet",
+      "value": "Ja"
+    },
+    {
+      "id": "LolloAndBernie",
+      "name": "Lollo och Bernie",
+      "value": false
+    },
+    {
+      "id": "IsAdultHotel",
+      "name": "Adult hotel",
+      "value": true
+    },
+    {
+      "id": "AllInclusive",
+      "name": "All Inclusive",
+      "value": false
+    }
+  ],
+  "hotelProduct": {
+    "id": 71,
+    "key": "PrimeComfort"
+  },
+  "interestProducts": [
+    {
+      "id": 77,
+      "key": "FreeWiFi"
+    },
+    {
+      "id": 79,
+      "key": "WiFiAllOverHotel"
+    }
+  ],
+  "importUpdateId": "2016-06-09T09:14:54.234Z"
+},
+{
+  "wvId": 190266,
+  "caId": 85294,
+  "name": "Paris Las Vegas",
+  "description": "Experience everything you love about Paris, right in the heart of the Las Vegas Strip. At Paris Las Vegas Hotel & Casino, you are transported to the City of Lights with all the same passion, excitement, and ambiance of Europe's most romantic city, with all the excitement of the entertainment capital of the world. Situated in the heart of the famous Las Vegas Strip, 350m from the Fountains of Bellagio, 4km from Welcome to Fabulous Las Vegas sign and 10km from the Freemont Street.\n\nFacilities and services include bars, restaurants, convention room, swimming pool, gym, spa treatments (extra charge), jacuzzi, safe at the reception, casino (extra charge), parking and 24-hour reception.\n\nRooms feature bathroom, hair dryer, air conditioning, wireless Internet access, safe, TV and telephone.\n\nClassic suite also feature separate living area and whirlpool tub.\n\nDeluxe suite feature private dressing areas.\n\n**One guest per room must be at least  21 years of age to check**\n\n100-200 USD (approximately) deposit is requested upon arrival.\n\nDouble room with option to be used by 3/4 persons (if booked). All of them sharing existing bedding, 2 pers. 1 double bed, 3 pers or more 2 separate beds.\n\nThis hotel has a compulsory resort fee of approximately 15-35 USD per room and night, in exceptional cases it can be more. This should be paid directly at the hotel upon arrival, where you receive the exact amount. This fee is not included in the price of the booking. \n\nAddress: 3655 Las Vegas Boulevard South, 89109 Las Vegas, Nevada, United State.",
+  "rating": {
+    "guestRating": 0,
+    "doubledRating": 7
+  },
+  "geographical": {
+    "countryId": 207,
+    "countryName": "USA",
+    "areaId": 108144,
+    "areaName": "Californien & The West",
+    "resortId": 828,
+    "resortName": "Las Vegas"
+  },
+  "location": {
+    "latitude": 36.11233,
+    "longitude": -115.1709
+  },
+  "url": "http://www.spies.dk/usa/las-vegas/paris-las-vegas",
+  "images": [
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_812_13.jpg?v=1",
+      "description": "",
+      "width": 696,
+      "height": 307
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_813_51.jpg?v=1",
+      "description": "",
+      "width": 975,
+      "height": 350
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_814_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_815_15.jpg?v=1",
+      "description": "",
+      "width": 232,
+      "height": 131
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_816_14.jpg?v=1",
+      "description": "",
+      "width": 380,
+      "height": 215
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_817_32.jpg?v=1",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_818_16.jpg?v=1",
+      "description": "",
+      "width": 210,
+      "height": 118
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_819_20.jpg?v=1",
+      "description": "",
+      "width": 136,
+      "height": 77
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130001_820_17.jpg?v=1",
+      "description": "",
+      "width": 210,
+      "height": 196
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130002_821_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130003_822_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130004_823_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130005_824_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130006_825_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130007_826_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130008_827_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130009_828_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130010_829_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130011_830_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130012_831_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130013_832_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130014_833_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HLASS0130015_834_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    }
+  ],
+  "facts": [
+    {
+      "id": "OutdoorPool",
+      "name": "Pool",
+      "value": "Ja"
+    },
+    {
+      "id": "DistanceToCenter",
+      "name": "Nærmeste centrum",
+      "value": "0 m"
+    },
+    {
+      "id": "Bar",
+      "name": "Bar",
+      "value": "Ja"
+    },
+    {
+      "id": "Elevator",
+      "name": "Elevator",
+      "value": "Ja"
+    },
+    {
+      "id": 130,
+      "name": "Restaurant",
+      "value": "1"
+    },
+    {
+      "id": "Internet",
+      "name": "Internet",
+      "value": "Ja"
+    },
+    {
+      "id": "LolloAndBernie",
+      "name": "Lollo och Bernie",
+      "value": false
+    },
+    {
+      "id": "IsAdultHotel",
+      "name": "Adult hotel",
+      "value": false
+    },
+    {
+      "id": "AllInclusive",
+      "name": "All Inclusive",
+      "value": false
+    }
+  ],
+  "hotelProduct": {
+    "id": 52,
+    "key": "Ordinary"
+  },
+  "interestProducts": [],
+  "importUpdateId": "2016-06-09T09:14:54.234Z"
+},
+{
+  "wvId": 189871,
+  "caId": 84799,
+  "name": "Mamaison Le Regina",
+  "description": "Beliggende i New Town, en del af Warsaws historiske område af den gamle by.\n\nMamaison Le Regina ligger fredeligt og rundt om en central gårdhave. Den behagelige lobby og lounge velkommer gæster med en hyggelig pejs. På hotellet findes et spa med swimmingpool og fitnessudstyr samt sauna.\n\nHotelværelserne er udstyret med telefon, pengeskab, internetadgang/trådløs internetadgang, aircondition og satellit tv samt betalingsfilm.\n\nAdressse: Koscielna 12, 00-218 Warsaw, Poland",
+  "rating": {
+    "guestRating": 0,
+    "doubledRating": 9
+  },
+  "geographical": {
+    "countryId": 157,
+    "countryName": "Polen",
+    "resortId": 304,
+    "resortName": "Warszawa"
+  },
+  "location": {
+    "latitude": 52.25386,
+    "longitude": 21.00748
+  },
+  "url": "http://www.spies.dk/polen/warszawa/mamaison-le-regina",
+  "images": [
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2189_13.jpg?v=1",
+      "description": "",
+      "width": 696,
+      "height": 307
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2190_51.jpg?v=1",
+      "description": "",
+      "width": 975,
+      "height": 350
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2191_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2192_15.jpg?v=1",
+      "description": "",
+      "width": 232,
+      "height": 131
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2193_14.jpg?v=1",
+      "description": "",
+      "width": 380,
+      "height": 215
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2194_32.jpg?v=1",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2195_16.jpg?v=1",
+      "description": "",
+      "width": 210,
+      "height": 118
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2196_20.jpg?v=1",
+      "description": "",
+      "width": 136,
+      "height": 77
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0001_2197_17.jpg?v=1",
+      "description": "",
+      "width": 210,
+      "height": 196
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0002_2198_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0003_2199_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0004_2200_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0005_2201_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HWAWS00G0006_2202_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    }
+  ],
+  "facts": [
+    {
+      "id": "OutdoorPool",
+      "name": "Pool",
+      "value": "Ja"
+    },
+    {
+      "id": "DistanceToCenter",
+      "name": "Nærmeste centrum",
+      "value": "0 m"
+    },
+    {
+      "id": "Elevator",
+      "name": "Elevator",
+      "value": "Ja"
+    },
+    {
+      "id": 130,
+      "name": "Restaurant",
+      "value": "1"
+    },
+    {
+      "id": "Internet",
+      "name": "Internet",
+      "value": "Ja"
+    },
+    {
+      "id": "LolloAndBernie",
+      "name": "Lollo och Bernie",
+      "value": false
+    },
+    {
+      "id": "IsAdultHotel",
+      "name": "Adult hotel",
+      "value": false
+    },
+    {
+      "id": "AllInclusive",
+      "name": "All Inclusive",
+      "value": false
+    }
+  ],
+  "hotelProduct": {
+    "id": 52,
+    "key": "Ordinary"
+  },
+  "interestProducts": [],
+  "importUpdateId": "2016-06-09T09:14:54.234Z"
+},
+{
+  "wvId": 192979,
+  "caId": 89619,
+  "name": "Macedonian Sun",
+  "description": "Macedonian Sun er beliggende på den østlige kyst af Kassandra på Halkidiki halvøen, 600 m fra stranden og 1,5 km fra landsbyen Kallithea.\n\nHotellet består af otte to-etagers bygninger med 146 værelser. På hotellet findes 24-timers reception, lobby med tv-stue, restaurant, bar, cafeteria, swimmingpool, WiFi i fællesområder (mod gebyr), souvenirbutik, supermarked og have. \n\nAlle værelser er udstyrede med badeværelse, hårtørrer, telefon, TV, radio, køleskab, pengeskab (mod gebyr), aircondition og balkon eller veranda. \n\n**Vigtigt! Aircondition kan kun benyttes i juli-august.**\n\n**Bemærk venligst, at nogle af de ovennævnte faciliteter kan være lukket på grund af vejret/sæsonmæssige forhold.** \n\nAdresse:\nKallithea/Kassandra\n63077 Halkidiki\nGrækenland",
+  "rating": {
+    "guestRating": 0,
+    "doubledRating": 4
+  },
+  "geographical": {
+    "countryId": 78,
+    "countryName": "Grækenland",
+    "resortId": 1021,
+    "resortName": "Halkidiki"
+  },
+  "location": {
+    "latitude": 40.07381,
+    "longitude": 23.44881
+  },
+  "url": "http://www.spies.dk/graekenland/halkidiki/macedonian-sun",
+  "images": [
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_35_13.jpg?v=1",
+      "description": "",
+      "width": 696,
+      "height": 307
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_36_51.jpg?v=1",
+      "description": "",
+      "width": 975,
+      "height": 350
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_37_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_38_15.jpg?v=1",
+      "description": "",
+      "width": 232,
+      "height": 131
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_39_14.jpg?v=1",
+      "description": "",
+      "width": 380,
+      "height": 215
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_40_32.jpg?v=1",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_41_16.jpg?v=1",
+      "description": "",
+      "width": 210,
+      "height": 118
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_42_20.jpg?v=1",
+      "description": "",
+      "width": 136,
+      "height": 77
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230001_43_17.jpg?v=1",
+      "description": "",
+      "width": 210,
+      "height": 196
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230002_44_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230003_45_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230004_46_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230005_47_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230006_48_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230007_49_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230008_50_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230009_51_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230010_52_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/HotelBedbank/HSKGS0230011_53_44.jpg?v=1",
+      "description": "",
+      "width": 670,
+      "height": 446
+    }
+  ],
+  "facts": [
+    {
+      "id": "OutdoorPool",
+      "name": "Pool",
+      "value": "Ja"
+    },
+    {
+      "id": "DistanceToBeach",
+      "name": "Nærmeste strand",
+      "value": "600 m"
+    },
+    {
+      "id": "DistanceToCenter",
+      "name": "Nærmeste centrum",
+      "value": "1 km"
+    },
+    {
+      "id": "Bar",
+      "name": "Bar",
+      "value": "Ja"
+    },
+    {
+      "id": 130,
+      "name": "Restaurant",
+      "value": "1"
+    },
+    {
+      "id": "Internet",
+      "name": "Internet",
+      "value": "Ja"
+    },
+    {
+      "id": "LolloAndBernie",
+      "name": "Lollo och Bernie",
+      "value": false
+    },
+    {
+      "id": "IsAdultHotel",
+      "name": "Adult hotel",
+      "value": false
+    },
+    {
+      "id": "AllInclusive",
+      "name": "All Inclusive",
+      "value": false
+    }
+  ],
+  "hotelProduct": {
+    "id": 52,
+    "key": "Ordinary"
+  },
+  "interestProducts": [],
+  "importUpdateId": "2016-06-09T09:14:54.234Z"
+},
+{
+  "wvId": 194106,
+  "caId": 95773,
+  "name": "Hibiscus Beach Hotel",
+  "description": "Hibiscus Beach Hotel ligger omgivet af jungle lige oven for stranden João Fernandes. Her bor du i små huse, der ligger spredt i en fin have med flammetræer og kolibrier. Ud over at udforske de spændende omgivelser omkring Buzios med vandreture, cykling og kitesurfing, kan du spille golf på Buzios Golf Club; en 18-hullers bane designet af Pete og Perry Dye.",
+  "rating": {
+    "guestRating": 0,
+    "doubledRating": 5
+  },
+  "geographical": {
+    "countryId": 28,
+    "countryName": "Brasilien",
+    "resortId": 688,
+    "resortName": "Buzios"
+  },
+  "location": {
+    "latitude": -22.7446766,
+    "longitude": -41.8757057
+  },
+  "url": "http://www.spies.dk/brasilien/buzios/hibiscus-beach-hotel",
+  "images": [
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_1_13.jpg?v=2",
+      "description": "",
+      "width": 696,
+      "height": 307
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_2_44.jpg?v=2",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_3_15.jpg?v=2",
+      "description": "",
+      "width": 232,
+      "height": 131
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_4_14.jpg?v=2",
+      "description": "",
+      "width": 380,
+      "height": 215
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_5_32.jpg?v=2",
+      "description": "",
+      "width": 170,
+      "height": 113
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_6_16.jpg?v=2",
+      "description": "",
+      "width": 210,
+      "height": 118
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_7_20.jpg?v=2",
+      "description": "",
+      "width": 136,
+      "height": 77
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_8_17.jpg?v=2",
+      "description": "",
+      "width": 210,
+      "height": 196
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1004_2_44.jpg?v=2",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1001_2_44.jpg?v=2",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1002_2_44.jpg?v=2",
+      "description": "",
+      "width": 670,
+      "height": 446
+    },
+    {
+      "url": "http://images1.spies.dk/images/Hotel/HRIOHIBI1003_10_51.jpg?v=2",
+      "description": "",
+      "width": 975,
+      "height": 350
+    }
+  ],
+  "facts": [
+    {
+      "id": "OutdoorPool",
+      "name": "Pool",
+      "value": "Ja"
+    },
+    {
+      "id": "DistanceToBeach",
+      "name": "Nærmeste strand",
+      "value": "100 m"
+    },
+    {
+      "id": "DistanceToCenter",
+      "name": "Nærmeste centrum",
+      "value": "2 km"
+    },
+    {
+      "id": "Bar",
+      "name": "Bar",
+      "value": "Ja"
+    },
+    {
+      "id": "Elevator",
+      "name": "Elevator",
+      "value": "Nej"
+    },
+    {
+      "id": 130,
+      "name": "Restaurant",
+      "value": "1"
+    },
+    {
+      "id": "CleaningDaysPerWeek",
+      "name": "Rengøring (antal dage pr. uge)",
+      "value": "7"
+    },
+    {
+      "id": "Internet",
+      "name": "Internet",
+      "value": "Ja"
+    },
+    {
+      "id": "LolloAndBernie",
+      "name": "Lollo och Bernie",
+      "value": false
+    },
+    {
+      "id": "IsAdultHotel",
+      "name": "Adult hotel",
+      "value": false
+    },
+    {
+      "id": "AllInclusive",
+      "name": "All Inclusive",
+      "value": false
+    }
+  ],
+  "hotelProduct": {
+    "id": 52,
+    "key": "Ordinary"
+  },
+  "interestProducts": [
+    {
+      "id": 77,
+      "key": "FreeWiFi"
+    },
+    {
+      "id": 79,
+      "key": "WiFiAllOverHotel"
+    }
+  ],
+  "importUpdateId": "2016-06-09T09:14:54.234Z"
+}]

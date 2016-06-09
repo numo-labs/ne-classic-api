@@ -28,6 +28,7 @@ build/Release
 
 # Dependency directories
 node_modules
+<<<<<<< ae122b639a6de80787f7efd4f276e86763539479
 jspm_packages
 
 # Optional npm cache directory
@@ -35,3 +36,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+=======
+coverage
+*.sw*
+>>>>>>> Initial commit
