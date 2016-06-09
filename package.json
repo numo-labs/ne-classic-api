@@ -1,0 +1,17 @@
+{
+  "name": "ne-classic-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-lambda-helper": "^2.18.0",
+    "aws-sdk": "^2.3.18",
+    "env2": "^2.1.0"
+  }
+}
